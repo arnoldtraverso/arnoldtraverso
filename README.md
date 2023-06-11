@@ -1,4 +1,4 @@
-# Hola, mi nombre es Kevin Arnold Traverso
+# Hola, mi nombre es Kevin Arnold Traverso 👋
 
 - 👋 Hi, I’m @arnoldtraverso
 - 👀 I’m interested in ...
