@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Soyingeniero agricola desde hace mas de 4 años
-
 En el 2018 he emepezado a dirigir la rama de hidrologia a la programacion en R, actualmente me encuentro dedicado al desarrollo de aplicaciones en hidrolgia, modelamiento hidrologico y cambio climatico.
 
 <!---
