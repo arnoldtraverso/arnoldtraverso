@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-En el 2018 he emepezado a dirigir la rama de hidrologia a la programacion en R, actualmente me encuentro dedicado al desarrollo de aplicaciones en hidrolgia, modelamiento hidrologico y cambio climatico.
+In 2017 I began to direct the hydrology branch to programming in R, currently I am dedicated to the development of applications in hydrology, hydrological modeling and climate change.
 
 <!---
 arnoldtraverso/arnoldtraverso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
