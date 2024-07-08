@@ -1,5 +1,5 @@
 # Hi, my name is Kevin Arnold Traverso! 👋
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/TE6QRfsMoFkhRtEGep/giphy.gif" width="50">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Traversoarnold?style=social)](https://twitter.com/Traversoarnold)
 
