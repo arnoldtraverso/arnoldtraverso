@@ -6,7 +6,7 @@
 - 🏔️ I’m a graduate **Water Resources** student at [Universidad Nacional Agraria La Molina](http://www.lamolina.edu.pe/)
 - 👀 I’m interested in **Hydrology and geoscience**
 - 🌱 I’m currently learning research in **Hydrological Models**
-- 💞️ I’m looking to collaborate on **Hydrology and Water Resources** open source projects
+- 🤓 I’m looking to collaborate on **Hydrology and Water Resources** open source projects
 - 📫 How to reach me: X: [@Traversoarnold](https://twitter.com/Traversoarnold)
 
 <!---
