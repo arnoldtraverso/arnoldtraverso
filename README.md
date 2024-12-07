@@ -1,4 +1,4 @@
-# Hi, my name is Kevin Arnold Traverso! 👋
+# Hi, my name is Kevin Arnold! 👋
 <img src="https://media.giphy.com/media/TE6QRfsMoFkhRtEGep/giphy.gif" width="50">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Traversoarnold?style=social)](https://twitter.com/Traversoarnold)
