@@ -1,9 +1,9 @@
-# Hi, my name is Kevin Arnold! 👋
+# Hi, my name is Kevin Arnold Traverso! 👋
 <img src="https://media.giphy.com/media/TE6QRfsMoFkhRtEGep/giphy.gif" width="50">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Traversoarnold?style=social)](https://twitter.com/Traversoarnold)
 
-- 👋 Hi, I’m @arnoldtraverso
+- 👋 Hi, I’m Kevin Arnold (@arnoldtraverso)
 - 🏔️ I’m a graduate **Water Resources** student at [Universidad Nacional Agraria La Molina](http://www.lamolina.edu.pe/)
 - 👀 I’m interested in **Hydrology and geoscience**
 - 🌱 I’m currently learning research in **Hydrological Models**
