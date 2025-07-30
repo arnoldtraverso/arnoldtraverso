@@ -1,3 +1,5 @@
+<img src="github_banner.png" alt="Banner Kevin Traverso" style="width:100%;"/>
+
 # Hi, my name is Kevin Arnold Traverso! 👋
 <img src="https://media.giphy.com/media/TE6QRfsMoFkhRtEGep/giphy.gif" width="50">
 
